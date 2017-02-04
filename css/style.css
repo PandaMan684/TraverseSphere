@@ -1,1 +1,8 @@
-h1 {color:red;}
+h1 {
+	color: red;
+}
+
+.jumbotron {
+	color: #FF6600; 
+	background-color: #236B8E;
+}
