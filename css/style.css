@@ -4,6 +4,7 @@ h1 {
 
 .jumbotron {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	color: #d35400; 
 	background-color: #34495e;
 	padding-bottom: 10px;
@@ -141,6 +142,10 @@ input[type=text]:focus {
 .hvr-bubble-right:hover:before, .hvr-bubble-right:focus:before, .hvr-bubble-right:active:before {
   -webkit-transform: translateX(10px);
   transform: translateX(10px);
+=======
+	color: #FF6600; 
+	background-color: #236B8E;
+>>>>>>> parent of 6f774eb... country bar
 =======
 	color: #FF6600; 
 	background-color: #236B8E;
