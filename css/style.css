@@ -5,6 +5,7 @@ h1 {
 .jumbotron {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	color: #d35400; 
 	background-color: #34495e;
 	padding-bottom: 10px;
@@ -19,7 +20,7 @@ h1 {
 body {
 	background-image: url("http://images1.laweekly.com/imager/u/original/6631988/raves-return-los-angeles-convention.jpg");
 	}
-tr {
+a {
 	font-size: 24px;
 	color: #34495e;
 }
@@ -142,6 +143,10 @@ input[type=text]:focus {
 .hvr-bubble-right:hover:before, .hvr-bubble-right:focus:before, .hvr-bubble-right:active:before {
   -webkit-transform: translateX(10px);
   transform: translateX(10px);
+=======
+	color: #FF6600; 
+	background-color: #236B8E;
+>>>>>>> parent of 6f774eb... country bar
 =======
 	color: #FF6600; 
 	background-color: #236B8E;
